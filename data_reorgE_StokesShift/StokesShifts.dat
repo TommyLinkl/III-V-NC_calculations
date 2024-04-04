@@ -1,0 +1,13 @@
+# QD_species          Diameter (nm)            Stokes_shift (meV)
+GaAs       2.0         95.0000
+GaAs       2.8         65.0000
+GaAs       3.7         45.0000
+GaAs       4.1         37.5000
+GaAs       5.1         24.7500
+GaAs       6.0         22.5000
+InP       1.8         55.0000
+InP       2.3         65.0000
+InP       2.9         50.0000
+InP       4.0         49.5000
+InP       4.9         41.2500
+InP       6.1         20.0000
